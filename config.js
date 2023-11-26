@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
-SUPPORT GROUP - https://t.me/QueenNilu
-YOUTUBE - http://youtube.com/janithsadanuwan
+WHATSAPP BOT BY SHASHIMAL 
+WHATSAPP - 94788779949
+WEBSITE - https://www.mihidumseya.blogspot.com
+FACEBOOK - Shashimal kavindu saranga
 */
 
 const fs = require('fs');
@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;d35U0LjD#Sb9E5_0-M1_sBnqWMsNPT2tANtznfXkV9JWGNWPyQm4' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;AiB0lAQB#CEVnbhJ34mODROhYR2feFbOhqvBPlOzxyV-zZ3rK25A' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://shashi_7_user:KK3RcaQar9eItDoA6S6Ey1sqkLa5J6rB@dpg-cl4t1o5qkk8c73c1h9rg-a.frankfurt-postgres.render.com/shashi_7'
@@ -41,21 +41,21 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'MIHIDHUMSEYA'
 
-global.FOOTER = 'Queen Nilu 2023'
+global.FOOTER = 'MIHIDHUMSEYA BOT 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@SHASHI 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = 'MIHIDHUMSEYA © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'hhttps://telegra.ph/file/ee5309cdd1d93c35e19b5.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'welcome' // Set Alive Message
 
@@ -71,7 +71,7 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://www.mihidumseya.blogspot.com' // ur group link
 
 
 /* 18 + Download Settings */
@@ -89,6 +89,6 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: The nature tv" //ur yt chanel name
+global.socialm = "GitHub: shashimal2000" //ur github or insta name
+global.location = "Srilanka, Ambalantota" //ur location
