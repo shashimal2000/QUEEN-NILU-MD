@@ -1,8 +1,8 @@
 /*
-WHATSAPP BOT BY SHASHIMAL 
-WHATSAPP - 94788779949
-WEBSITE - https://www.mihidumseya.blogspot.com
-FACEBOOK - Shashimal kavindu saranga
+WHATSAPP BOT BY Janith sadanuwan 
+WHATSAPP - 94767438882
+SUPPORT GROUP - https://t.me/QueenNilu
+YOUTUBE - http://youtube.com/janithsadanuwan
 */
 
 const fs = require('fs');
@@ -55,7 +55,7 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'MIHIDHUMSEYA © 2023' // Caption
 
-global.ALIVELOGO = 'hhttps://telegra.ph/file/ee5309cdd1d93c35e19b5.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/ee5309cdd1d93c35e19b5.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'welcome' // Set Alive Message
 
